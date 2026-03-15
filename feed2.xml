@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>MotoGP Update 2026</title>
+    <link>https://www.motogp.com</link>
+    <description>Canal oficial de noticias sobre el Mundial de Motociclismo: Resultados, fichajes y técnica.</description>
+    <copyright>CC 4.0 - BY-SA - Tu Nombre</copyright>
+
+    <item>
+      <title>Marc Márquez domina los test de pretemporada en Sepang</title>
+      <link>https://www.youtube.com/watch?v=Ps0Ipyb8qE8</link>
+      <description>El piloto de Gresini marca el mejor tiempo histórico en el trazado malasio.</description>
+      <author>Redacción Motor</author>
+      <pubDate>Sun, 15 Mar 2026</pubDate>
+      <category>MotoGP</category>
+    </item>
+
+    <item>
+      <title>Jorge Martín confirma su fichaje por Aprilia para 2027</title>
+      <link>https://ejemplo.com/motogp/fichaje-martin</link>
+      <description>Bombazo en el paddock: el "Martinator" dejará Ducati al finalizar la presente campaña.</description>
+      <author>Tu Nombre</author>
+      <pubDate>Sat, 14 Mar 2026</pubDate>
+      <category>Mercado de Fichajes</category>
+    </item>
+
+    <item>
+      <title>Pedro Acosta: El "Tiburón de Mazarrón" busca su primer podio</title>
+      <link>https://ejemplo.com/motogp/acosta-previo</link>
+      <description>Análisis del rendimiento de la KTM del joven prodigio antes del GP de Qatar.</description>
+      <author>Redacción Motor</author>
+      <pubDate>Fri, 13 Mar 2026</pubDate>
+      <category>Pilotos</category>
+    </item>
+
+    <item>
+      <title>Nueva normativa técnica: Motores de 850cc para 2027</title>
+      <link>https://ejemplo.com/motogp/reglamento-nuevo</link>
+      <description>La FIM anuncia los cambios estructurales para reducir la velocidad punta en las rectas.</description>
+      <author>Comité Técnico</author>
+      <pubDate>Thu, 12 Mar 2026</pubDate>
+      <category>Reglamento</category>
+    </item>
+
+    <item>
+      <title>Podcast Episodio 10: ¿Es Ducati invencible?</title>
+      <link>https://ejemplo.com/motogp/podcast-10</link>
+      <description>Debatimos sobre la superioridad de la Desmosedici frente a las marcas japonesas.</description>
+      <author>Tu Nombre</author>
+      <pubDate>Wed, 11 Mar 2026</pubDate>
+      <enclosure url="https://ejemplo.com/audios/episodio10.ogg" type="audio/ogg" length="360" />
+      <category>Podcast</category>
+    </item>
+
+  </channel>
+</rss>
